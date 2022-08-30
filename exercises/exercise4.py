@@ -13,7 +13,7 @@ def es_vocal_if(letra: str) -> bool:
 
     Referencia: https://docs.python.org/3/library/stdtypes.html#string-methods
     """
-
+    
 
 # NO MODIFICAR - INICIO
 assert es_vocal_if("a")
