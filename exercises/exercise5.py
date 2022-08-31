@@ -27,7 +27,9 @@ def sumatoria_sum(n: int) -> int:
     Restricción: No utilizar bucles (FOR, WHILE, etc)
     Referencia: https://docs.python.org/3/library/functions.html#sum
     """
-    
+    return sum(range(n),n)
+
+
 
 # NO MODIFICAR - INICIO
 assert sumatoria_sum(1) == 1
